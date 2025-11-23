@@ -1,18 +1,21 @@
 # better-resume
 
-A streamlined tool designed to help developers and professionals create cleaner, more effective resumes. While details are sparse, this repository aims to improve the resume-building process with better structure and presentation.
+A streamlined tool designed to help developers and professionals create cleaner, more effective resumes. This project aims to improve the resume-building process by providing better structure and presentation through simplified workflows and customizable templates.
 
 ## Features
+
 - Simplified resume creation workflow
 - Clean and modern resume templates (assumed)
 - Easy customization and formatting options (assumed)
 
 ## Tech Stack
+
 - Primary language: Not specified (likely JavaScript, Python, or Markdown-based)
 - Possibly uses templating engines or static site generators (assumed)
 
 ## Getting Started
-Since the project details are not provided, here is a generic setup guide:
+
+These instructions are based on assumptions due to limited project details. Adjust commands as necessary based on the actual tech stack.
 
 1. Clone the repository:
    ```bash
@@ -32,13 +35,13 @@ Since the project details are not provided, here is a generic setup guide:
    npm run build
    ```
 
-Adjust these commands based on the actual tech stack.
-
 ## Project Structure
-- `/` Root directory (no files detected yet)
+
+- `/` Root directory (currently contains README.md)
 - Likely to include directories for templates, assets, and source code (assumed)
 
 ## Future Work / Roadmap
+
 - Add detailed documentation and usage examples
 - Include multiple resume templates
 - Support export to PDF and other formats
