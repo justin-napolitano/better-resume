@@ -1,12 +1,27 @@
 ---
-slug: "github-better-resume"
-title: "better-resume"
-repo: "justin-napolitano/better-resume"
-githubUrl: "https://github.com/justin-napolitano/better-resume"
-generatedAt: "2025-11-23T08:39:02.018925Z"
-source: "github-auto"
+slug: github-better-resume
+title: 'better-resume: Modular Resume Generation with Templating and Extensibility'
+repo: justin-napolitano/better-resume
+githubUrl: https://github.com/justin-napolitano/better-resume
+generatedAt: '2025-11-23T08:39:02.018925Z'
+source: github-auto
+summary: >-
+  Overview of better-resume, a customizable tool for generating structured, modern resumes using
+  templates, Markdown, and planned API integrations.
+tags:
+  - resume-generation
+  - templating
+  - markdown
+  - static-site-generator
+  - cli-tool
+  - pdf-export
+seoPrimaryKeyword: resume generation
+seoSecondaryKeywords:
+  - templating
+  - markdown
+  - pdf export
+seoOptimized: true
 ---
-
 
 # better-resume: Technical Overview and Rationale
 
