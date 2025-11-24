@@ -21,6 +21,12 @@ seoSecondaryKeywords:
   - markdown
   - pdf export
 seoOptimized: true
+topicFamily: static
+topicFamilyConfidence: 0.9
+topicFamilyNotes: >-
+  The project focuses on generating structured resumes using templating, Markdown, and build
+  workflows similar to static site generation, aligning closely with 'Static' family which covers
+  static site and blog projects using templating and automation tooling.
 ---
 
 # better-resume: Technical Overview and Rationale
@@ -60,3 +66,4 @@ The repository structure suggests a modular approach, potentially separating tem
 ## Summary
 
 better-resume aims to fill a practical need for developers and professionals by providing a more efficient and customizable resume creation tool. While details remain sparse, the inferred design choices favor modularity, extensibility, and user-centric workflow improvements. This project serves as a foundation that can evolve into a comprehensive solution for resume generation and management.
+
