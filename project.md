@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/better-resume
 generatedAt: '2025-11-24T21:34:03.476Z'
 source: github-auto
 summary: >-
-  A tool for creating effective resumes with customizable templates and
-  simplified workflows.
+  A tool for creating cleaner, customizable resumes with simplified workflows
+  and modern templates.
 tags:
   - resume builder
   - javascript
@@ -19,7 +19,7 @@ tags:
 seoPrimaryKeyword: resume building tool
 seoSecondaryKeywords:
   - customizable resume templates
-  - developer resume automation
+  - developer resume generator
   - resume creation workflow
   - export resume to PDF
   - LinkedIn integration
