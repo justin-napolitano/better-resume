@@ -1,13 +1,13 @@
 ---
 slug: github-better-resume
-title: 'better-resume: Modular Resume Generation with Templating and Extensibility'
+title: 'better-resume: Streamlined Resume Creation Tool'
 repo: justin-napolitano/better-resume
 githubUrl: https://github.com/justin-napolitano/better-resume
 generatedAt: '2025-11-23T08:39:02.018925Z'
 source: github-auto
 summary: >-
-  Overview of better-resume, a customizable tool for generating structured, modern resumes using
-  templates, Markdown, and planned API integrations.
+  better-resume simplifies the resume creation process for developers, offering
+  customizable templates and an efficient workflow.
 tags:
   - resume-generation
   - templating
@@ -15,18 +15,30 @@ tags:
   - static-site-generator
   - cli-tool
   - pdf-export
-seoPrimaryKeyword: resume generation
+  - resume generation
+  - templating engines
+  - static site generators
+  - JavaScript
+  - Python
+  - Markdown
+  - CLI tools
+seoPrimaryKeyword: resume creation tool
 seoSecondaryKeywords:
-  - templating
-  - markdown
-  - pdf export
+  - customizable resume templates
+  - resume formatting
+  - developer resume builder
+  - resume management
+  - modular design
 seoOptimized: true
 topicFamily: static
 topicFamilyConfidence: 0.9
 topicFamilyNotes: >-
-  The project focuses on generating structured resumes using templating, Markdown, and build
-  workflows similar to static site generation, aligning closely with 'Static' family which covers
-  static site and blog projects using templating and automation tooling.
+  The project focuses on generating structured resumes using templating,
+  Markdown, and build workflows similar to static site generation, aligning
+  closely with 'Static' family which covers static site and blog projects using
+  templating and automation tooling.
+kind: project
+id: github-better-resume
 ---
 
 # better-resume: Technical Overview and Rationale
