@@ -1,20 +1,29 @@
 ---
 slug: github-better-resume
 id: github-better-resume
-title: better-resume
+title: Streamlined Resume Builder for Developers
 repo: justin-napolitano/better-resume
 githubUrl: https://github.com/justin-napolitano/better-resume
 generatedAt: '2025-11-24T21:34:03.476Z'
 source: github-auto
 summary: >-
-  A streamlined tool designed to help developers and professionals create
-  cleaner, more effective resumes. This project aims to improve the
-  resume-building process by providing better structure and presentation through
-  simplified workflows and customizable templates.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  A tool for creating effective resumes with customizable templates and
+  simplified workflows.
+tags:
+  - resume builder
+  - javascript
+  - python
+  - static site generator
+  - custom templates
+  - workflow automation
+seoPrimaryKeyword: resume building tool
+seoSecondaryKeywords:
+  - customizable resume templates
+  - developer resume automation
+  - resume creation workflow
+  - export resume to PDF
+  - LinkedIn integration
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
